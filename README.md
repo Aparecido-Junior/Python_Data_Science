@@ -9,11 +9,11 @@ This course takes me through the entire data science workflow — from understan
 
 # 🎯 My Goal
 
-By the end of this course, I’ll be able to:
+- By the end of this course, I’ll be able to:
 
-Turn raw data into actionable insights 📊
+- Turn raw data into actionable insights 📊
 
-Automate data tasks with Python 🤖
+- Automate data tasks with Python 🤖
 
 Build a strong foundation for future analytics and machine learning projects 💡
 
